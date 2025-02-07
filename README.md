@@ -2,7 +2,6 @@
 - 🧰 Server Administrator
 - 💼 ITA in Germany
 - 🌱 Currently learning ...
-- 🍺 Party People
 - 📫 See in Acc
 
 <!---
